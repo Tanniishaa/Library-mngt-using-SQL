@@ -11,13 +11,13 @@ c. CTAS (Create Table As Select): Utilize CTAS to create new tables based on que
    
 d. Advanced SQL Queries: Develop complex queries to analyze and retrieve specific data.
 
-1. Project Structure
+# Project Structure
    
 Database Setup: Created a database named library_db.
 
 Table Creation: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
 
-2. CRUD Operations
+# CRUD Operations
    
 Create: Inserted sample records into the books table.
 
@@ -41,7 +41,7 @@ CTAS (Create Table As Select)
 
 Task 6: Create Summary Tables.
 
-3. Data Analysis & Findings
+# Data Analysis & Findings
 
 Task 7: Retrieve All Books in a Specific Category.
 
@@ -53,7 +53,7 @@ Task 10: Create a Table of Books with Rental Price Above a Certain Threshold.
 
 Task 11: Retrieve the List of Books Not Yet Returned.
 
-4. Advanced SQL Operations
+# Advanced SQL Operations
    
 Task 12: Branch Performance Report
 
